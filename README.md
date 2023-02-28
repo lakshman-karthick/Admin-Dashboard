@@ -55,6 +55,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Making a Progressive Web App
 
+
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/81451604/221852892-f9181387-acab-4118-b657-08a82a9a44f0.png">
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
 ### Advanced Configuration
