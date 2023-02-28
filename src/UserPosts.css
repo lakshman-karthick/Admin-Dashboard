@@ -1,0 +1,101 @@
+.postsBG{
+    background-color: rgb(177, 232, 185);
+    height: 550px;
+    width: 500px;
+    margin-left: 5px;
+    margin-top: -10px;
+    /* margin-right: 50px; */
+   
+}
+
+.posts{
+    color: white;
+    padding-top: 5px;
+    font-size: 30px;
+    /* font-weight: bold; */
+    padding-left: 10px;
+    text-align:left;
+    margin-top: 3px;
+}
+
+.postsBG{
+    -ms-overflow-style: none; /* for Internet Explorer, Edge */
+    scrollbar-width: none; /* for Firefox */
+    overflow-y: scroll; 
+    /* overflow-x: hidden;
+    overflow-y: auto;    */
+}
+
+.postsBG::-webkit-scrollbar {
+   display: none; 
+}
+
+.userPost{
+    position: relative;
+    font-size: 16px;
+    padding: 10px;
+    color: black;
+    width: fit-content;
+    width: 480px;
+    margin-left: 10px;
+    height: fit-content;
+    /* height: 100px; */
+    border-radius: 10px;
+    background-color: white;
+    margin-bottom: 30px;
+    margin-top: 13px;
+}
+
+.bold{
+    font-weight: bold;
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.order{
+    display: flex;
+
+}
+.delete{
+   padding-left: 13px;
+}
+
+.delmsg{
+    padding-left: 13px;
+}
+
+.editDel{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+.updel{
+    display: flex;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+
+.cont{
+    /* font-family: sans-serif; */
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.popup{
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 40px;
+    margin-top: 200px;
+    padding-top: 15px;
+    padding-bottom:15px;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+}
+
+.pp{
+    font-weight: bold;
+
+}

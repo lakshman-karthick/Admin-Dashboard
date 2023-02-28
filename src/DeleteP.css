@@ -1,0 +1,23 @@
+.delp{
+    background-color: rgb(177, 232, 185);
+    height: 550px;
+    width: 500px;
+    margin-left: 5px;
+    margin-top: -10px;
+    
+}
+
+.box{
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 40px;
+    margin-top: 200px;
+    padding-top: 15px;
+    padding-bottom:15px;
+    border-radius: 10px;
+    width: 300px;
+}
+
+.back{
+    margin-left: 240px;
+}
