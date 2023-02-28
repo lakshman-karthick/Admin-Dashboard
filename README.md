@@ -1,74 +1,65 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Admin Dashboard
 
-## Available Scripts
+- An Admin Dashboard is created to manage posts created by users.
+- ReactJS is used for the frontend development.
+- The Given Mock Api is used for all CRUD operations in the Dashboard.
+- The given mock api and its end points are:
+    
+	https://637de434cfdbfd9a63a00317.mockapi.io/test/v2/:endpoint
 
-In the project directory, you can run:
+	Endpoints:
 
-### `npm start`
+	Users:
+    - GET /users
+    - GET /users/:id
+    - POST /users
+    - PUT /users/:id
+    - DELETE /users/:id
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+    Posts:
+    - GET /users/:id/posts
+    - GET /users/:id/posts/:id
+    - POST /users/:id/posts
+    - PUT /users/:id/posts/:id
+    - DELETE /users/:id/posts/:id
+    
+ ## Screenshots
+ 
+ ### Dashboard
+ 
+ ![dashboard](https://user-images.githubusercontent.com/81451604/221853632-acb3ebab-905f-4310-811f-4571f10a7a8e.jpg)
+ 
+ ### Create User
+ 
+ ![Create user](https://user-images.githubusercontent.com/81451604/221853945-a71d615b-359c-4309-8302-c7f9abfe21c6.jpg)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Create New Post
 
-### `npm test`
+![new post](https://user-images.githubusercontent.com/81451604/221853890-dfb34eab-f420-4ad8-9314-2224c5ccf170.jpg)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Delete Post
 
-### `npm run build`
+![delete](https://user-images.githubusercontent.com/81451604/221854067-c5779fd2-69d2-4524-80cd-8d5b08a7e075.jpg)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Edit User
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![edit user](https://user-images.githubusercontent.com/81451604/221854117-356a1350-37d8-4466-be9e-7d38b0b6fa26.jpg)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Edit Post
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
+![edit post](https://user-images.githubusercontent.com/81451604/221854196-f573af51-fa31-4ef4-874f-fd3033f95039.jpg)
 
 
-<img width="959" alt="image" src="https://user-images.githubusercontent.com/81451604/221852892-f9181387-acab-4118-b657-08a82a9a44f0.png">
 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+ 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
