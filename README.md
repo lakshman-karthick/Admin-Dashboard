@@ -24,6 +24,11 @@
     - PUT /users/:id/posts/:id
     - DELETE /users/:id/posts/:id
     
+ ## Deployment Link
+
+https://admin-dashboard-9irc.vercel.app/
+
+    
  ## Screenshots
  
  ### Dashboard
@@ -51,9 +56,12 @@
 ![edit post](https://user-images.githubusercontent.com/81451604/221854196-f573af51-fa31-4ef4-874f-fd3033f95039.jpg)
 
 
-## Deployment Link
+## Linkedin
 
-https://admin-dashboard-9irc.vercel.app/
+https://www.linkedin.com/in/lakshmankarthick/
+
+
+
 
 
 
