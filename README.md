@@ -41,9 +41,6 @@ https://admin-dashboard-9irc.vercel.app/
 
 ### Create New Post
 
-<img width="959" alt="4" src="https://user-images.githubusercontent.com/81451604/226358901-384ea941-43ba-4df2-9ee0-e5729ddffda8.png">
-
-
 ![new post](https://user-images.githubusercontent.com/81451604/221853890-dfb34eab-f420-4ad8-9314-2224c5ccf170.jpg)
 
 ### Delete Post
